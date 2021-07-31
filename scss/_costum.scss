@@ -1,0 +1,20 @@
+// WARNA SAYA
+$hijau-tua: #206a5d;
+$putih: #ffffff;
+$krem: #f1f1e8;
+
+// BOOTSTRAP OVERRIDE
+
+// WARNA
+$primary: $hijau-tua;
+$secondary: $krem;
+$light: $putih;
+$info: $krem;
+
+// FONT
+$font-family-sans-serif: Roboto;
+.ft-ubuntu {
+  font-family: Ubuntu;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
