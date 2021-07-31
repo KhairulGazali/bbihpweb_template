@@ -13,8 +13,8 @@ $info: $krem;
 
 // FONT
 $font-family-sans-serif: Roboto;
-.ft-ubuntu {
-  font-family: Ubuntu;
-}
+
+// NAVBAR
+$navbar-nav-link-padding-x: 1rem;
 
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
