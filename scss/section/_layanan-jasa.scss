@@ -1,0 +1,19 @@
+@use "../costum" as *;
+
+.hero-image-1 {
+  background-image: url(/assets/img/hero-1.png);
+  background-size: cover;
+}
+
+.pengujian,
+.sertifikasi,
+.kalibrasi {
+  a {
+    font-size: 1.2rem;
+    text-decoration: none;
+  }
+  a:hover {
+    font-size: 1.2rem;
+    color: $putih;
+  }
+}

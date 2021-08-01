@@ -1,9 +1,10 @@
 @use './costum';
 
-.ft-ubuntu {
-  font-family: "Ubuntu", sans-serif;
-}
-.section-satu {
-  background: url(../assets/img/main_background.png);
-  background-size: cover;
-}
+// SECTION
+@use './section/intoduction';
+@use './section/komitmen-kami';
+@use './section/layanan-jasa';
+
+// COMPONENTS
+@use './components/navbar';
+@use './components/typography';
