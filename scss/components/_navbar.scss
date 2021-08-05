@@ -1,8 +1,10 @@
 @use "../costum" as *;
 
+.nav-link {
+  border-radius: 10px;
+}
+
 .nav-link:hover {
   color: $hijau-tua !important;
   background-color: $putih;
-  padding: 0.2rem;
-  border-radius: 10px;
 }
