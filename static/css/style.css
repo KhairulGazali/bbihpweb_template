@@ -10776,6 +10776,7 @@ textarea.form-control-lg {
 
 .nav-link {
   border-radius: 10px;
+  padding: 2px;
 }
 
 .nav-link:hover {
