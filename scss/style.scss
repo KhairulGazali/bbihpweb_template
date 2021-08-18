@@ -1,9 +1,14 @@
 @use './costum';
 
 // SECTION
-@use './section/intoduction';
-@use './section/komitmen-kami';
-@use './section/layanan-jasa';
+//beranda
+@use './section/beranda/intoduction';
+@use './section/beranda/komitmen-kami';
+@use './section/beranda/layanan-jasa';
+@use './section/beranda/pelayanan-testimoni';
+
+//profil-bbihp
+@use './section/profil-bbihp/introduction';
 
 // COMPONENTS
 @use './components/navbar';

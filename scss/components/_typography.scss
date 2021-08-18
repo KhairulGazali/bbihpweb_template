@@ -3,27 +3,4 @@
 
 .heading-1 {
   @include ubuntu-headIng;
-  color: $putih;
-}
-
-.heading-2 {
-  @include ubuntu-headIng;
-  color: $hijau-tua;
-}
-
-.heading-3 {
-  @include ubuntu-headIng;
-  color: $krem;
-}
-
-.sub-heading-3 {
-  color: $krem;
-}
-
-.sub-heading-1 {
-  color: $putih;
-}
-
-.sub-heading-2 {
-  color: $hijau-tua;
 }
