@@ -10777,7 +10777,27 @@ textarea.form-control-lg {
 .intro-profil-bbihp {
   background-image: url(/assets/img/profil-bbihp/hero-image.png);
   background-size: cover;
-  height: 800px;
+  height: 780px;
+}
+
+.visi-misi {
+  height: 500px;
+}
+
+.intro-profil-pejabat {
+  background-image: url(/assets/img/profil-pejabat/hero-image.png);
+  height: 600px;
+  background-size: cover;
+}
+
+.kepala-balai {
+  margin-top: -45px;
+}
+
+.intro-berita {
+  background-image: url(/assets/img/berita-kegiatan/Hero-Image.png);
+  background-size: cover;
+  height: 600px;
 }
 
 .nav-link {

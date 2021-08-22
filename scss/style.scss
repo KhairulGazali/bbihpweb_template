@@ -10,6 +10,12 @@
 //profil-bbihp
 @use './section/profil-bbihp/introduction';
 
+// profil-pejabat
+@use './section/profil-pejabat/intro.scss';
+
+// berita-kegiatan
+@use './section/berita-kegiatan/into';
+
 // COMPONENTS
 @use './components/navbar';
 @use './components/typography';
